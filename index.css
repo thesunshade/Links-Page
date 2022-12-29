@@ -30,14 +30,14 @@ body {
 .header {
     color: var(--off-white);
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     font-weight: bold;
     padding-bottom: .5rem;
 }
 
 .sub-head {
     font-size: .8rem;
-    color: #cfcdcb;
+    /* color: #cfcdcb; */
     font-family: 'Fira Mono Regular';
 }
 
