@@ -57,6 +57,17 @@ body {
     width: 30px;
     margin-right: auto;
     padding-left: .5rem;
+
+}
+
+.links-button:hover .icon {
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+}
+
+.tools-button:hover .icon {
+    -webkit-filter: drop-shadow(5px 5px 5px rgb(121, 0, 0));
+    filter: drop-shadow(1px 1px 0px rgb(146, 0, 0));
 }
 
 .text {
