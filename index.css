@@ -131,4 +131,10 @@ body {
 .button:active {
     box-shadow: var(--dark) 0 3px 7px inset;
     transform: translateY(2px);
+
+}
+
+.button:focus {
+    outline: solid 2px rgb(255, 36, 36);
+
 }
